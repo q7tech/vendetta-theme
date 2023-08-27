@@ -59,7 +59,7 @@
     "#1f1e1e2d"
     ],
     "CHANNEL_ICON": [
-    "#908caa2d"
+    "#908caa"
     ],
     "CHANNELS_DEFAULT": [
     "#908caa2d"
@@ -92,19 +92,19 @@
     "#26233a2d"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-    "#21202e2d"
+    "#21202e"
     ],
     "TEXT_DANGER": [
-    "#eb6f922d"
+    "#eb6f92"
     ],
     "TEXT_LINK": [
-    "#1981fc2d"
+    "#1981fc"
     ],
     "TEXT_MUTED": [
-    "#6e6a862d"
+    "#6e6a86"
     ],
     "TEXT_NORMAL": [
-    "#e0def42d"
+    "#e0def4"
     ],
     "CARD_PRIMARY_BG": [
     "#191724d2"
@@ -201,4 +201,4 @@
     "WHITE_500": "#e0def4"
  },
   "spec": 2
-}
+  }

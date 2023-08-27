@@ -1,6 +1,6 @@
 {
-  "name": "Testing surDetta",
-  "description": "surCord ported to Vendetta - Testers",
+  "name": "surDetta Testers",
+  "description": "surCord ported to Vendetta",
   "authors": [
     {
       "name": "Prizmin",
@@ -11,8 +11,8 @@
       "id": "999203260122533908"
     },
     {
-      "name": "Clay",
-      "id": "838197580462293042"
+      "name": "Luz",
+      "id": "499287211381096458"
     }
   ],
   "semanticColors": {
@@ -50,9 +50,6 @@
     "#1f1e1e"
     ],
     "BACKGROUND_SECONDARY": [
-    "#2a282c"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
     "#2a282c"
     ],
     "BACKGROUND_TERTIARY": [
@@ -95,10 +92,10 @@
     "#21202e"
     ],
     "TEXT_DANGER": [
-    "#eb6f92"
+    "#b10000"
     ],
     "TEXT_LINK": [
-    "#1981fc"
+    "#1a58a3FF"
     ],
     "TEXT_MUTED": [
     "#6e6a86"
@@ -114,9 +111,10 @@
     ]
   },
   "rawColors": {
-    "BRAND_260": "#c4a7e7",
-    "BRAND_360": "#1981fc",
-    "BRAND_500": "#524f67",
+    "BRAND_260": "#1a58a3FF",
+    "BRAND_360": "#1a58a3FF",
+    "BRAND_500": "#1a58a3FF",
+    "BRAND_560": "#9466ff",
     "GREEN_100": "#9ccfd8",
     "GREEN_130": "#9ccfd8",
     "GREEN_160": "#9ccfd8",
@@ -126,7 +124,7 @@
     "GREEN_300": "#9ccfd8",
     "GREEN_330": "#9ccfd8",
     "GREEN_345": "#9ccfd8",
-    "GREEN_360": "#9ccfd8",
+    "GREEN_360": "#1a58a3FF",
     "GREEN_400": "#9ccfd8",
     "GREEN_430": "#9ccfd8",
     "GREEN_460": "#9ccfd8",
@@ -162,7 +160,7 @@
     "RED_330": "#eb6f92",
     "RED_345": "#eb6f92",
     "RED_360": "#eb6f92",
-    "RED_400": "#eb6f92",
+    "RED_400": "#bdbeff",
     "RED_430": "#eb6f92",
     "RED_460": "#eb6f92",
     "RED_500": "#eb6f92",
@@ -198,7 +196,23 @@
     "YELLOW_830": "#f6c177",
     "YELLOW_860": "#f6c177",
     "YELLOW_900": "#f6c177",
-    "WHITE_500": "#e0def4"
+    "WHITE_500": "#bdbeff",
+    "thanks": ["Luz"]
  },
+  "plus":{
+       "version":"0",
+       "unreadBadgeColor": "#908caa",
+       "mentionLineColor": "#c47272",
+       "iconpack":"md3",
+       "icons":{
+          "ic_new_pins":"#eb6f92",
+          "StatusStreaming": "#c4a7e7",
+          "StatusMobileOnline": "#93bfb3",
+          "StatusIdle": "#ebd6ba",
+          "StatusDND": "#ba6565",
+          "StatusOffline": "#908caa",
+          "StatusOnline": "#93bfb3"
+       }
+  },
   "spec": 2
-  }
+}

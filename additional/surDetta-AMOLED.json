@@ -17,7 +17,7 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-    "#1a58a3FF"
+    "#1a58a3"
     ],
     "BACKGROUND_FLOATING": [
     "#000000"
@@ -44,7 +44,7 @@
     "#000000"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-    "#1a58a3FF"
+    "#1a58a3"
     ],
     "BACKGROUND_PRIMARY": [
     "#000000"

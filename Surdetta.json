@@ -1,10 +1,14 @@
 {
     "name": "Surdetta",
-    "description": "SurCord ported to Vendetta",
+    "description": "A SurCord port for Vendetta",
     "authors": [
       {
         "name": "Prizmin, hamhimstudio",
         "id": "825803913462284328"
+      },
+      {
+        "name": "hamhimstudio",
+        "id": "999203260122533908"
       }
     ],
     "semanticColors": {

@@ -6,8 +6,21 @@
 2. After installing, Go to your Settings -> Themes
 3. Add surDetta's URL in there
 ```
-https://raw.githubusercontent.com/Prizmin/vendetta-theme/main/surDetta.json
+https://prizmin.github.io/vendetta-theme/surDetta.json
 ```
+
+<h6>Themes</h6>
+
+AMOLED:
+```
+https://prizmin.github.io/vendetta-theme/additional/surDetta-AMOLED.json
+```
+
+AMOLEDc (Red):
+``` 
+https://prizmin.github.io/vendetta-theme/additional/surDetta-AMOLEDc.json
+```
+
 <h6>Latest Changelogs</h6>
 
 > Monday - 28/8/23<br>

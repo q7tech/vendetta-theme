@@ -10,9 +10,10 @@ https://raw.githubusercontent.com/Prizmin/vendetta-theme/main/surDetta.json
 ```
 <h6>Latest Changelogs</h6>
 
-> Sunday - 27/8/23<br>
+> Monday - 28/8/23<br>
 
-Added Blue accented channel selects
+Added Themes+ and an iconpack.<br>
+Plans for other surCord-like themes.
 
 <h6>Known Bugs</h6>
 
@@ -23,5 +24,5 @@ Added Blue accented channel selects
 - [X] Blue accent
 - [X] Add color
 - [ ] Fix some minor bugs (optional but recommended)
-- [X] Themes+ support
-- [X] Custom Themes+ icons.
+- [ ] More surCord themes
+- [X] Themes+ support w/icons

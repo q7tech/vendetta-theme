@@ -9,11 +9,15 @@
     {
       "name": "hamhimstudio",
       "id": "999203260122533908"
+    },
+    {
+      "name": "Clay",
+      "id": "838197580462293042"
     }
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-    "#1a58a3"
+    "#1a58a3FF"
     ],
     "BACKGROUND_FLOATING": [
     "#1f1e1e"

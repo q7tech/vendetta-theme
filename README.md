@@ -6,7 +6,7 @@
 2. After installing, Go to your Settings -> Themes
 3. Add surDetta's URL in there
 ```
-https://raw.githubusercontent.com/Prizmin/vendetta-theme/main/Surdetta.json
+https://raw.githubusercontent.com/Prizmin/vendetta-theme/main/surDetta.json
 ```
 <h6>Latest Changelogs</h6>
 

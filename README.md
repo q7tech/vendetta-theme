@@ -21,6 +21,11 @@ AMOLEDc (Red):
 https://prizmin.github.io/vendetta-theme/additional/surDetta-AMOLEDc.json
 ```
 
+Red surCord:
+```
+https://prizmin.github.io/vendetta-theme/additional/surDetta-red.json
+```
+
 <h6>Latest Changelogs</h6>
 
 > Monday - 28/8/23<br>

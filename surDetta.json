@@ -13,6 +13,10 @@
     {
       "name": "Clay",
       "id": "838197580462293042"
+    },
+    {
+      "name": "Luz",
+      "id": "499287211381096458"
     }
   ],
   "semanticColors": {
@@ -200,5 +204,20 @@
     "YELLOW_900": "#f6c177",
     "WHITE_500": "#e0def4"
  },
+  "plus":{
+       "version":"0",
+       "unreadBadgeColor": "#908caa",
+       "mentionLineColor": "#c47272",
+       "iconpack":"md3",
+       "icons":{
+          "ic_new_pins":"#eb6f92",
+          "StatusStreaming": "#c4a7e7",
+          "StatusMobileOnline": "#93bfb3",
+          "StatusIdle": "#ebd6ba",
+          "StatusDND": "#ba6565",
+          "StatusOffline": "#908caa",
+          "StatusOnline": "#93bfb3"
+       }
+  },
   "spec": 2
-  }
+}

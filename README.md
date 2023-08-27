@@ -23,5 +23,5 @@ Added Blue accented channel selects
 - [X] Blue accent
 - [X] Add color
 - [ ] Fix some minor bugs (optional but recommended)
-- [ ] Themes+ support
-- [ ] Custom Themes+ icons.
+- [X] Themes+ support
+- [X] Custom Themes+ icons.

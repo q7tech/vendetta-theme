@@ -195,19 +195,4 @@
     "YELLOW_860": "#f6c177",
     "YELLOW_900": "#f6c177",
     "WHITE_500": "#e0def4"
- },
- "plus":{
-  "version":"0",
-  "iconpack":"rosiecord-plumpy",
-  "icons":{
-     "ic_new_pins":"#eb6f92",
-     "StatusStreaming": "#c441f0",
-     "StatusMobileOnline": "#41f049",
-     "StatusIdle": "#e7f041",
-     "StatusDND": "#f04141",
-     "StatusOffline": "#6e6a86",
-     "StatusOnline": "#41f049"
-}
-},
-"spec": 2
-  }
+ }

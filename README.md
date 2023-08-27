@@ -13,3 +13,9 @@ https://raw.githubusercontent.com/Prizmin/vendetta-theme/main/Surdetta.json
 > Sunday - 27/8/23<br>
 
 Added Blue accented channel selects
+
+<h6>To-Do</h6>
+
+- [X] Blue accent
+- [X] Add color
+- [ ] Custom Icons

@@ -14,8 +14,14 @@ https://raw.githubusercontent.com/Prizmin/vendetta-theme/main/Surdetta.json
 
 Added Blue accented channel selects
 
+<h6>Known Bugs</h6>
+
+- When opening a popup, the other half of the screen is blocked off.
+
 <h6>To-Do</h6>
 
 - [X] Blue accent
 - [X] Add color
-- [ ] Custom Icons
+- [ ] Fix some minor bugs (optional but recommended)
+- [ ] Themes+ support
+- [ ] Custom Themes+ icons.

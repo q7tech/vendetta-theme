@@ -198,12 +198,12 @@
        "iconpack":"rosiecord-plumpy",
        "icons":{
           "ic_new_pins":"#eb6f92",
-          "StatusStreaming": "#c4a7e7",
-          "StatusMobileOnline": "#9ccfd8",
-          "StatusIdle": "#ebbcba",
-          "StatusDND": "#eb6f92",
+          "StatusStreaming": "#9b32a8",
+          "StatusMobileOnline": "#32a852",
+          "StatusIdle": "#a4a832",
+          "StatusDND": "#a83232",
           "StatusOffline": "#6e6a86",
-          "StatusOnline": "#9ccfd8"
+          "StatusOnline": "#32a852"
  }
 },
     "spec": 2

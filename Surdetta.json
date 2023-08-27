@@ -9,104 +9,108 @@
     {
       "name": "hamhimstudio",
       "id": "999203260122533908"
+    },
+    {
+      "name": "Clay",
+      "id": "838197580462293042"
     }
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-    "#1a58a3"
+    "#1a58a32d"
     ],
     "BACKGROUND_FLOATING": [
-    "#1f1e1e"
+    "#1f1e1e2d"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-    "#403d52"
+    "#403d522d"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-    "#1f1e1e"
+    "#1f1e1e2d"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-    "#2a282c"
+    "#2a282c2d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#2a282c"
+    "#2a282c2d"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-    "#2a282c"
+    "#2a282c2d"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-    "#1f1e1e"
+    "#1f1e1e2d"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-    "#1f1e1e"
+    "#1f1e1e2d"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-    "#403d52"
+    "#403d522d"
     ],
     "BACKGROUND_PRIMARY": [
-    "#1f1e1e"
+    "#1f1e1e2d"
     ],
     "BACKGROUND_SECONDARY": [
-    "#2a282c"
+    "#2a282cd2"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#2a282c"
+    "#2a282c2d"
     ],
     "BACKGROUND_TERTIARY": [
-    "#1f1e1e"
+    "#1f1e1e2d"
     ],
     "CHANNEL_ICON": [
-    "#908caa"
+    "#908caa2d"
     ],
     "CHANNELS_DEFAULT": [
-    "#908caa"
+    "#908caa2d"
     ],
     "CHAT_BACKGROUND": [
-    "#1e1e1e"
+    "#1e1e1e2d"
     ],
     "HEADER_PRIMARY": [
-    "#e0def4"
+    "#e0def4d2"
     ],
     "HEADER_SECONDARY": [
-    "#e0def4"
+    "#e0def42d"
     ],
     "HOME_BACKGROUND": [
-    "#1f1e1e"
+    "#1f1e1e2d"
     ],
     "INTERACTIVE_ACTIVE": [
-    "#e0def4"
+    "#e0def42d"
     ],
     "INTERACTIVE_HOVER": [
-    "#403d52"
+    "#403d522d"
     ],
     "INTERACTIVE_MUTED": [
-    "#6e6a86"
+    "#6e6a862d"
     ],
     "INTERACTIVE_NORMAL": [
-    "#908caa"
+    "#908caa2d"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-    "#26233a"
+    "#26233a2d"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-    "#21202e"
+    "#21202e2d"
     ],
     "TEXT_DANGER": [
-    "#eb6f92"
+    "#eb6f922d"
     ],
     "TEXT_LINK": [
-    "#1981fc"
+    "#1981fc2d"
     ],
     "TEXT_MUTED": [
-    "#6e6a86"
+    "#6e6a862d"
     ],
     "TEXT_NORMAL": [
-    "#e0def4"
+    "#e0def42d"
     ],
     "CARD_PRIMARY_BG": [
-    "#191724"
+    "#191724d2"
     ],
     "CARD_SECONDARY_BG": [
-    "#2a282c"
+    "#2a282c2d"
     ]
   },
   "rawColors": {

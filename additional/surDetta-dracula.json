@@ -1,1 +1,219 @@
-{}
+{
+  "name": "surDetta - Dracula",
+  "description": "surCord ported to Vendetta. Now in Dracula.",
+  "authors": [
+    {
+      "name": "Prizmin",
+      "id": "825803913462284328"
+    },
+    {
+      "name": "hamhimstudio",
+      "id": "999203260122533908"
+    },
+    {
+      "name": "Luz",
+      "id": "499287211381096458"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+    "#2B243E"
+    ],
+    "BACKGROUND_FLOATING": [
+    "#2B243E"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+    "#403d52"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+    "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+    "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+    "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+    "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+    "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+    "#000000"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+    "#E33941"
+    ],
+    "BACKGROUND_PRIMARY": [
+    "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+    "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+    "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+    "#000000"
+    ],
+    "CHANNEL_ICON": [
+    "#908caa"
+    ],
+    "CHANNELS_DEFAULT": [
+    "#908caa"
+    ],
+    "CHAT_BACKGROUND": [
+    "#000000"
+    ],
+    "HEADER_PRIMARY": [
+    "#e0def4"
+    ],
+    "HEADER_SECONDARY": [
+    "#e0def4"
+    ],
+    "HOME_BACKGROUND": [
+    "#000000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+    "#e0def4"
+    ],
+    "INTERACTIVE_HOVER": [
+    "#403d52"
+    ],
+    "INTERACTIVE_MUTED": [
+    "#6e6a86"
+    ],
+    "INTERACTIVE_NORMAL": [
+    "#908caa"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+    "#26233a"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+    "#21202e"
+    ],
+    "TEXT_DANGER": [
+    "#eb6f92"
+    ],
+    "TEXT_LINK": [
+    "#1981fc"
+    ],
+    "TEXT_MUTED": [
+    "#6e6a86"
+    ],
+    "TEXT_NORMAL": [
+    "#e0def4"
+    ],
+    "CARD_PRIMARY_BG": [
+    "#191724"
+    ],
+    "CARD_SECONDARY_BG": [
+    "#000000"
+    ]
+  },
+  "rawColors": {
+    "BRAND_260": "#c4a7e7",
+    "BRAND_360": "#1981fc",
+    "BRAND_500": "#524f67",
+    "GREEN_100": "#9ccfd8",
+    "GREEN_130": "#9ccfd8",
+    "GREEN_160": "#9ccfd8",
+    "GREEN_200": "#9ccfd8",
+    "GREEN_230": "#9ccfd8",
+    "GREEN_260": "#9ccfd8",
+    "GREEN_300": "#9ccfd8",
+    "GREEN_330": "#9ccfd8",
+    "GREEN_345": "#9ccfd8",
+    "GREEN_360": "#9ccfd8",
+    "GREEN_400": "#9ccfd8",
+    "GREEN_430": "#9ccfd8",
+    "GREEN_460": "#9ccfd8",
+    "GREEN_500": "#9ccfd8",
+    "GREEN_530": "#9ccfd8",
+    "GREEN_560": "#9ccfd8",
+    "GREEN_600": "#9ccfd8",
+    "GREEN_630": "#9ccfd8",
+    "GREEN_660": "#9ccfd8",
+    "GREEN_700": "#9ccfd8",
+    "GREEN_730": "#9ccfd8",
+    "GREEN_760": "#9ccfd8",
+    "GREEN_800": "#9ccfd8",
+    "GREEN_830": "#9ccfd8",
+    "GREEN_860": "#9ccfd8",
+    "GREEN_900": "#9ccfd8",
+    "GUILD_BOOSTING_PINK": "#eb6f92",   
+    "GUILD_BOOSTING_PURPLE": "#c4a7e7",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
+    "PRIMARY_100": "#e0def4",
+    "PRIMARY_300": "#E33941",
+    "PRIMARY_360": "#ebbcba",    
+    "PRIMARY_400": "#ebbcba",
+    "PRIMARY_460": "#000000",
+    "PRIMARY_500": "#908caa",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "RED_260": "#eb6f92",
+    "RED_300": "#eb6f92",
+    "RED_330": "#eb6f92",
+    "RED_345": "#eb6f92",
+    "RED_360": "#eb6f92",
+    "RED_400": "#eb6f92",
+    "RED_430": "#eb6f92",
+    "RED_460": "#eb6f92",
+    "RED_500": "#eb6f92",
+    "RED_530": "#eb6f92",
+    "RED_560": "#eb6f92",
+    "RED_600": "#eb6f92",
+    "RED_630": "#eb6f92",
+    "RED_660": "#eb6f92",
+    "RED_700": "#eb6f92",
+    "YELLOW_100": "#f6c177",
+    "YELLOW_130": "#f6c177",
+    "YELLOW_160": "#f6c177",
+    "YELLOW_200": "#f6c177",
+    "YELLOW_230": "#f6c177",
+    "YELLOW_260": "#f6c177",
+    "YELLOW_300": "#f6c1774d",
+    "YELLOW_330": "#f6c177",
+    "YELLOW_345": "#f6c177",
+    "YELLOW_360": "#f6c177",
+    "YELLOW_400": "#f6c177",
+    "YELLOW_430": "#f6c177",
+    "YELLOW_460": "#f6c177",
+    "YELLOW_500": "#f6c177",
+    "YELLOW_530": "#f6c177",
+    "YELLOW_560": "#f6c177",
+    "YELLOW_600": "#f6c177",
+    "YELLOW_630": "#f6c177",
+    "YELLOW_660": "#f6c177",
+    "YELLOW_700": "#f6c177",
+    "YELLOW_730": "#f6c177",
+    "YELLOW_760": "#f6c177",
+    "YELLOW_800": "#f6c177",
+    "YELLOW_830": "#f6c177",
+    "YELLOW_860": "#f6c177",
+    "YELLOW_900": "#f6c177",
+    "WHITE_500": "#e0def4"
+ },
+  "plus":{
+       "version":"0",
+       "unreadBadgeColor": "#908caa",
+       "mentionLineColor": "#c47272",
+       "iconpack":"md3",
+       "icons":{
+          "ic_new_pins":"#eb6f92",
+          "StatusStreaming": "#c4a7e7",
+          "StatusMobileOnline": "#93bfb3",
+          "StatusIdle": "#ebd6ba",
+          "StatusDND": "#ba6565",
+          "StatusOffline": "#908caa",
+          "StatusOnline": "#93bfb3"
+       }
+  },
+  "spec": 2
+  }

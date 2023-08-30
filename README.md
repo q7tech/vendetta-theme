@@ -35,7 +35,7 @@ Plans for other surCord-like themes.
 
 <h6>Known Bugs</h6>
 
-- When opening a popup, the other half of the screen is blocked off.
+- ~~When opening a popup, the other half of the screen is blocked off.~~ Fixed.
 
 <h6>To-Do</h6>
 

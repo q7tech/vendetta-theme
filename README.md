@@ -26,6 +26,10 @@ Red surCord:
 https://prizmin.github.io/vendetta-theme/additional/surDetta-red.json
 ```
 
+Dracula:
+```
+https://prizmin.github.io/vendetta-theme/additional/surDetta-dracula.json
+
 <h6>Latest Changelogs</h6>
 
 > Monday - 28/8/23<br>

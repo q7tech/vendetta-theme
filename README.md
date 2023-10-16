@@ -13,22 +13,22 @@ https://prizmin.github.io/vendetta-theme/surDetta.json
 
 AMOLED:
 ```
-https://prizmin.github.io/vendetta-theme/additional/surDetta-AMOLED.json
+https://actuallyarm64.github.io/vendetta-theme/additional/surDetta-AMOLED.json
 ```
 
 AMOLEDc (Red):
 ``` 
-https://prizmin.github.io/vendetta-theme/additional/surDetta-AMOLEDc.json
+https://actuallyarm64.github.io/vendetta-theme/additional/surDetta-AMOLEDc.json
 ```
 
 Red surCord:
 ```
-https://prizmin.github.io/vendetta-theme/additional/surDetta-red.json
+https://actuallyarm64.github.io/vendetta-theme/additional/surDetta-red.json
 ```
 
 Dracula:
 ```
-https://prizmin.github.io/vendetta-theme/additional/surDetta-dracula.json
+https://actuallyarm64.github.io/vendetta-theme/additional/surDetta-dracula.json
 ```
 
 <h6>Latest Changelogs</h6>

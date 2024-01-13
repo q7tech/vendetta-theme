@@ -6,29 +6,29 @@
 2. After installing, Go to your Settings -> Themes
 3. Add surDetta's URL in there
 ```
-https://wecannotdecide2.github.io/vendetta-theme/surDetta.json
+https://q7tech.github.io/vendetta-theme/surDetta.json
 ```
 
 <h6>Themes</h6>
 
 AMOLED:
 ```
-https://wecannotdecide2.github.io/vendetta-theme/additional/surDetta-AMOLED.json
+https://q7tech.github.io/vendetta-theme/additional/surDetta-AMOLED.json
 ```
 
 AMOLEDc (Red):
 ``` 
-https://wecannotdecide2.github.io/vendetta-theme/additional/surDetta-AMOLEDc.json
+https://q7tech.github.io/vendetta-theme/additional/surDetta-AMOLEDc.json
 ```
 
 Red surCord:
 ```
-https://wecannotdecide2.github.io/vendetta-theme/additional/surDetta-red.json
+https://q7tech.github.io/vendetta-theme/additional/surDetta-red.json
 ```
 
 Dracula:
 ```
-https://wecannotdecide2.github.io/vendetta-theme/additional/surDetta-dracula.json
+https://q7tech.github.io/vendetta-theme/additional/surDetta-dracula.json
 ```
 
 <h6>Latest Changelogs</h6>

@@ -1,6 +1,6 @@
 {
   "name": "surDetta Testers",
-  "description": "surCord ported to Vendetta",
+  "description": "BETA - surCord ported to Vendetta",
   "authors": [
     {
       "name": "westillthinking",
@@ -18,9 +18,6 @@
   "semanticColors": {
     "BACKGROUND_ACCENT": [
     "#1a58a3FF"
-    ],
-    "BACKGROUND_FLOATING": [
-    "#1f1e1e"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
     "#403d52"
